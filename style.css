@@ -1,0 +1,83 @@
+header{
+    background-color : hsl(301, 100%, 50%);
+    text-align : center;
+
+}
+
+body{
+    background-color : hsl(0, 28%, 63%);
+    text-align : center;
+    text-color : rgb(0, 255, 204);
+}
+#desp{
+    color : rgb(103, 227, 96);
+    font-size : 20px;
+    font-family : Arial, Helvetica, sans-serif;
+    background-color : rgb(217, 0, 255);
+}
+#list{
+    color : rgb(8, 254, 0);
+    font-size : 20px;
+    font-family : Arial, Helvetica, sans-serif;
+}
+
+.lp{
+    list-style-type : circle;
+    text-align : left;
+    display : inline-block;
+    text-color : rgb(255, 238, 0);
+    margin-left : 20px;
+}
+
+#vi{
+    background-color: chartreuse;
+    text-color : rgb(224, 0, 123);
+}
+#de{
+    backgrund-color: rgba(142, 37, 133, 0.574);
+}
+ #ol{
+    background-color: rgba(74, 58, 145, 0.752);
+    font-color : rgba(255, 0, 0, 0.825);
+ }
+    #ul{
+        background-color: rgba(255, 0, 0, 0.753);
+        text-color : rgb(255, 255, 0);
+    }
+
+    #oil{
+   display : inline-block;
+    text-align : left;
+    }
+
+    body{
+        display : inline-block;
+        background-color : rgb(187, 138, 138);
+        text-color : rgb(0, 0, 0);
+    }   
+
+    p{
+        background-color : rgb(0, 255, 255);
+        text-color : rgb(0, 0, 0);
+        font-size : 50px;
+    }
+    ul{
+        background-color : rgb(255, 0, 255);
+        text-color : rgb(0, 0, 0);
+        font-size : 75px;
+        display :inline -block;
+        text-align : left;
+    }
+
+    h1{
+        background-color : rgb(218, 21, 21);
+        text-color : rgb(0, 0, 0);
+        font-size : 100px;
+    }
+    img{
+        background-color : rgb(0, 255, 255);
+        text-color : rgb(0, 0, 0);
+        width : 500px;
+        height : 500px;
+        border-radius : 50%;
+    }
