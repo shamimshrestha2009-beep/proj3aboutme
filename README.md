@@ -1,2 +1,2 @@
 Basic wibsite that displays information about me.
-I have used anchor tags and button to go through other sites and also included my contact sources like face book instagram and i have alto included my photo for being trushworthy.
+I have used anchor tags and button to go through other sites and also included my contact sources like face book instagram and i have alto included my photo for being trushworthy.I'm a web developer! I am making this website to showcase my skills and projects. In this website, you will get to see a site where I will be using anchor tags to link many different websites that describe me.
